@@ -79,7 +79,7 @@ Habit Tracker
 
 
 ## Contributing
-Contributions are always welcome! If you have any suggestions for improving this application, please feel free to create a pull request or open an issue.
+Contributions are always welcome! 
 
 
 
